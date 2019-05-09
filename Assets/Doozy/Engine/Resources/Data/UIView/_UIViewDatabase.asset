@@ -17,8 +17,10 @@ MonoBehaviour:
   - Custom
   - Example
   - General
+  - StartView
   - MainView
   Categories:
   - {fileID: 11400000, guid: b01e98f4801f7124ba39e1dac4debf90, type: 2}
   - {fileID: 11400000, guid: 4571c8c027acdd64da09d6d4b684fb61, type: 2}
   - {fileID: 11400000, guid: fce38e406f69d2145908f6d843ebacc7, type: 2}
+  - {fileID: 11400000, guid: bc4fe9b2391c521448a3a72fe6c12622, type: 2}
